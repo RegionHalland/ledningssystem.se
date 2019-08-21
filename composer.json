@@ -77,6 +77,7 @@
     "wpackagist-plugin/wp-migrate-db": "1.0.10",
     "wpackagist-plugin/mce-table-buttons":"3.3",
     "wpackagist-plugin/classic-editor":"1.5",
+    "wpackagist-plugin/user-role-editor": "^4.35",
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
     "regionhalland/region-halland-acf-page-links-blurbs": "1.7.0",
     "regionhalland/region-halland-acf-page-kulturarrangemang": "2.3.0",
