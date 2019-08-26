@@ -33,19 +33,31 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/RegionHalland/region-halland-acf-page-links-blurbs.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/RegionHalland/region-halland-acf-page-kulturarrangemang.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/RegionHalland/region-halland-acf-page-ingress.git"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/RegionHalland/region-halland-acf-page-additions.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/oasis-workflow-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/ow-acf-compare"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/ow-editorial-checklist"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/ow-editorial-comments"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/ow-groups"
+    },
+    {
+      "type": "vcs",
+      "url": "https://regionhalland.visualstudio.com/repo.RhWpPlugIns/_git/ow-teams"
     },
     {
       "type": "package",
@@ -79,10 +91,13 @@
     "wpackagist-plugin/classic-editor":"1.5",
     "wpackagist-plugin/user-role-editor": "^4.35",
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
-    "regionhalland/region-halland-acf-page-links-blurbs": "1.7.0",
-    "regionhalland/region-halland-acf-page-kulturarrangemang": "2.3.0",
-    "regionhalland/region-halland-acf-page-ingress": "1.1.2",
-    "regionhalland/region-halland-acf-page-additions": "1.0.0"
+    "regionhalland/region-halland-acf-page-additions": "1.1.0",
+    "regionhalland/oasis-workflow-pro": "6.4.0",
+    "regionhalland/ow-acf-compare": "1.4.0",
+    "regionhalland/ow-editorias-checklist": "2.0.0",
+    "regionhalland/ow-editorias-comments": "2.2.0",
+    "regionhalland/ow-groups": "1.5.0",
+    "regionhalland/ow-teams": "3.3.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
