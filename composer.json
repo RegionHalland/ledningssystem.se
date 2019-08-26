@@ -71,7 +71,7 @@
     "wpackagist-plugin/classic-editor":"1.5",
     "wpackagist-plugin/user-role-editor": "^4.35",
     "advanced-custom-fields/advanced-custom-fields-pro": "*",
-    "regionhalland/region-halland-acf-page-additions": "1.1.0",
+    "regionhalland/region-halland-acf-page-additions": "1.2.0",
     "regionhalland/region-halland-use-taxonomy-category-on-page": "1.0.0"
   },
   "require-dev": {
